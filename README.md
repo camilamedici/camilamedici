@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/camilamedici">
-  <img height="200em" width="42%" src="https://github-readme-stats.vercel.app/api?username=camilamedici&show_icons=true&theme=dracula">
+  <img height="210em" width="42%" src="https://github-readme-stats.vercel.app/api?username=camilamedici&show_icons=true&theme=dracula">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamedici&theme=dracula"> <!--hide_progress=false&layout=compact&--!>
 </div>
 
